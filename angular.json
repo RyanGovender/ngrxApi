@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngrxsports"
+    }
+  },
+  "defaultProject": "ngrxsports",
+  "cli": {
+    "defaultCollection": "@ngrx/schematics"
+  }
 }
